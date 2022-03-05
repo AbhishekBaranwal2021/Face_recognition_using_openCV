@@ -16,3 +16,7 @@
 * PREPROCESSING ON THE OUTPUT DATA:-With the help of the video_capture and OPENCV we extract the face from the frame image(resize it to get the required feature)and convert into RGB frame. 
 * We create the boundary aroung the face.
 * If it's in the known_face then display the "name" else display "Unknown" .
+
+## IMPORTANT LINKS FOR BETTER UNDERSTANDING
+* For "FACE_RECOGNITION":- https://pypi.org/project/face-recognition/
+* For "OPENCV":- https://opencv.org/about/
