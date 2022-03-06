@@ -12,6 +12,7 @@
 * We use a pre-existing model named as "Face_recognition"
 * Taking the realtime image in the form of video with the help of OPENCV.
 * Identifing the face feature from the given image and identify the unique feature of a particular person.
+* ![Picture1_johnny](https://user-images.githubusercontent.com/58131790/156910764-a36ccc29-53ef-4609-a2a7-47b652fe3ab5.png)
 * PREPROCESSING ON INPUT DATA:- with the help of face_recognition module we encode or say extract the feature of the given image(eye,nose,etc) .
 * PREPROCESSING ON THE OUTPUT DATA:-With the help of the video_capture and OPENCV we extract the face from the frame image(resize it to get the required feature)and convert into RGB frame. 
 * We create the boundary aroung the face.
