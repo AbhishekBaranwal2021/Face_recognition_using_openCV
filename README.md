@@ -1,5 +1,5 @@
 # Face_recognition_using_openCV
-## IMPORTANT REQUERMENT
+## IMPORTANT REQUIERMENT
 1. Face_recognition (Helps to Recognize and manipulate faces)
 2. Open CV (It helps for image processing and performing computer vision tasks)
 3. Numpy(It helps and provides multidimension array to perform mathematical operationn)
